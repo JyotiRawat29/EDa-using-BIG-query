@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "learnings-333510",
+  "private_key_id": "56d52b8c9b57aa834db91756856c799854ac1363",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPrEaZpW1R0Z8k\nthHsoSiV0IKmkUCd0bGcB5RUeEgqEj+EsglezpDSSpMVGenKkATclp+Hu9uqG5Qf\ndvLEMawDzVa71me/2zVr7grTQkFuRSZWxjQlfh2sYFJPwjHjxgIgAEz7dsh4NbeS\nhMrTt6mSnCR/R2M4boSGiSJeBGXnaHlAgCbrOfMymnmySI7Sje/G31jzXAX6/kRt\nHhHd7MhpfJRaupKil3RJaeimSe3M3cUa+I7EFh6K1/Jl7Zata+/Crs1C4yiOCORD\njxxUYxMz3r8eFOF2wqvG7gBHfWXP+DDD4H9mS3844dWrMAP+mvM10tGLuWFZYyat\neZQGz6c9AgMBAAECgf8Bn1bt3Fz+RqT3pHR/ZMLsaLScmIXotbqtfWGrR0VJDttw\nLfPkybhX7D057Pnmmzluf76/ULhmm9CMbmF3JuwxG2mSDhrBZPUF4tYy0FGyitfB\n1cqSgGm67wW1mc7J+MILffUcAdGPHtxQSLlM7iJlAtNGK0ibKEHgyzF5io9BP4wX\nXZJjW5iS8cI5pN0TnPb+FDudEs/xv/1GBSBOMwM3R0kPpJ0E4f1MFl4UZ7pRoLTf\nsLYB4hmDAWo1g2Sl3sQgJK9T0UTaWp2IOQJudEBCFPWIuNILv27Nivay2s/+MQxq\n4Yht1XJnW/FaemqX2xiPLg9lGvDCX2Rwy3+HTLkCgYEA8yAZgHBYSMtZTPR2bgjc\nMEeYwsZuudUdxDKF9Sq46TPFmQnFCrMVOH15bD9uI/aydzQJyu2a+INfcZlprZKC\nVi3LPHNNKKLBqEdcC8HZ0okvVSAQHgJElcXVxVY3Ykn27FDR7eKaeqDjCSsXEuLs\nAiZxuS/z91hV/hSAyxkKSosCgYEA2quRxgPjsyIWlwpGxIyscfmpvYW2yd3o/Tlk\n8wmLKhB2z9ofMzABJMIbZwP0bSioDbQj6optc3oB5VW21Hk0miB71I9JqhuLSpDt\nvNcx5YATmybXYSvAz4Q2HAiElwV79nwU6dTA5jDScUo2Z/jWu+wRzsaae1j5wIEA\nn4elNlcCgYEAryIbXKsQ3XcmH8olmYPmYRziDMR2NIUxSQh/+KhKxSoXF/Oyrc9s\n5OF12yUiCOQHkNi6iSR5srSnxyQUvQTBwKSCN0xzc2cyiy7EPm/oocFSiEZtdcB6\neU0mfV1qzfGr3nUlk+/dCaLliNAycddm3PGmkBjb6/wFDd7lG+gwwpsCgYEAzcLL\ntKxMQm89GnsNBD3qtoTa9/8udN1fM4giOZ8tWDON2R/CZAQzz0bnShQql9y95ccw\nVK5VN2gDCK2TEHPMz4rpeqYqButMMqoVSrCjvvS5fjEaUdE96Qbbc52ARite7hzs\nAOu1Z+Vg4EGY2FUKmmIUj6HKE28x87Zvw618BJkCgYEA8SOlT2jN1O7VBeY+af4z\n2MN5f6cPFefhAgHCu7VK6beFCgC5tzJ+LRI96WUIn5vqOpokazlNUaxVaqfv2GCr\nGvHgC47ge1r7pOTHfzX7tgFz4JmnOnx96i5KqDrEtx6s0mwDvf87rYVwTWnR4MLu\n8dC6+z9VoBcBTs8izdDkqFE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bq-jupyter@learnings-333510.iam.gserviceaccount.com",
+  "client_id": "117044875881880949208",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bq-jupyter%40learnings-333510.iam.gserviceaccount.com"
+}
